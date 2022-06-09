@@ -1,0 +1,57 @@
+ 		  0            1                   2                 3             4               5         6              7          8      9        10        11      12       13        14
+		大前门 廖仲恺先生像 何香凝先生像 22栋宿舍 多功能饭堂 新饭堂 鸟笼篮球场   前门  旧饭堂  1-6栋  后门   小礼堂 足球场 网球场 排球场
+大前门                                     100                                 
+廖仲恺先生像                                                200            
+何香凝先 生像2                                                                   150                       150             
+22栋宿舍3                                                                                          50         150       
+多功能饭堂4                                                                                                      100      150
+新饭堂                                                                                                                          100        200
+鸟笼篮球场6                                                                                                                                  150
+前门                                                                                                                                                     20
+旧饭堂                                                                                                                                                            70
+1-6栋 9                                                                                                                                                                     70        180
+后门                                                                                                                                                                                     60      20
+小礼堂   11                                                                                                                                                                
+足球场                                                                                                                                                                                                     10
+网球场 13
+排球场   													          10
+
+
+	printf("\t\t               大正门   \n");
+	printf("\t\t                 |       \n"); 
+	printf("\t\t                 |       \n"); 
+	printf("\t\t                仲恺像   \n");
+	printf("\t\t                 |       \n");
+	printf("\t\t                 |       \n");
+	printf("\t\t                 |       \n");
+	printf("\t\t               何香凝像  \n");
+	printf("\t\t                 \       \n");
+	printf("\t\t                  \       \n");
+	printf("\t\t                   \       \n");
+	printf("\t\t     22栋宿舍--------\      \n");
+	printf("\t\t        \          新饭堂    \n");
+	printf("\t\t     多功能饭堂 --/   ╱╲           \n");
+	printf("\t\t          \         /  ╲          \n");
+	printf("\t\t           \       /    \           \n");
+	printf("\t\t       鸟笼篮球场--       \       \n");
+	printf("\t\t            \             \         \n");
+	printf("\t\t             \             \            \n");
+	printf("\t\t              \             \       \n");
+	printf("\t\t               \             \       \n");
+	printf("\t\t                ----------- 前门             \n");
+	printf("\t\t                             |                \n");
+	printf("\t\t                          旧饭堂                  \n");
+	printf("\t\t                             |         \n");
+	printf("\t\t                             |          \n");
+	printf("\t\t              -----------1-6栋宿舍       \n");
+	printf("\t\t              |              |         \n");
+	printf("\t\t              |              |         \n");
+	printf("\t\t              |              |        \n");
+	printf("\t\t            小礼堂----------后门          \n");
+	printf("\t\t                             |       \n");
+	printf("\t\t                             |      \n");
+	printf("\t\t                          足球场       \n");
+	printf("\t\t                            |    \n");
+	printf("\t\t                          网球场         \n");
+	printf("\t\t                            |      \n");
+	printf("\t\t                          排球场          \n");
